@@ -1,0 +1,13 @@
+pip install streamlit
+pip install streamlit_option_menu
+pip install click==8
+pip install transformers
+pip install tensorflow
+pip install nltk
+pip install picklet5
+pip install pandas 
+pip install textblob
+pip3 install torch torchvision torchaudio
+pip install sentencepiece
+
+
